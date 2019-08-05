@@ -4,3 +4,8 @@
     box-sizing: border-box;
     outline: none;
 }
+
+h1 {
+    text-align: center;
+    padding: 1%;
+}
